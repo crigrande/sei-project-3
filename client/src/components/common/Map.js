@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import ReactMapGL, { Marker, Popup } from 'react-map-gl'
 
+
 const Map = ({ myData, filteredData }) => {
 
   const [popup, setPopup] = useState(null)
