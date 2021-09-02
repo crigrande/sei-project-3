@@ -47,11 +47,13 @@ CEST is a Full-Stack web application to rent flexible office spaces. Multiple lo
 
 ## Brief
 
-* Group project to realise a MERN stack web application.
+* Group project to realise a MERN stack web application. It’s possible not only to browse the website and searching through the map or the search bar. We have also added multiple functionalities that allow users to register an account, and once logged in users can also create, read, update and delete comments and ratings for each space.
 
 ## Approach
 
 We planned the work using the agile approach, assigning tasks to each member of the team and reviewing the progress based on the deadlines. We worked in different git branches and merged all of them in the main one before deploying.
+
+<img src="http://res.cloudinary.com/dbc3fejob/image/upload/v1630579255/Readme%20project%203/Screenshot_2021-09-02_at_11.39.01_hv6zoc.png">
 
 During the first part we coded the backend, that includes the Workspace and User models. We decided then to add another schema, the Comments, that are related with the Workspace and accessible only when the user is logged. 
 
@@ -97,10 +99,18 @@ We spent the first day planning the project and set up an internal deadline to r
 
 ## Key Learning/Takeaway
 
-* Working in the git branches
-* Bootstrap 
-* Deploy using heroku
+* **Working in the Git branches** - This was the first project I did, using the branches and besides some initial challenges we had merging the work, I feel that I got a strong understanding and I used it in all my next projects.
+* **Bootstrap** - In the previous project I used Bulma so this time I wanted to learn another CSS framework. I totally love it as allows me to have an initial structure and gives me more time to focus on details and learning new things.
+* **Deploy using heroku** - For this project I used a new tool to deploy, it was quite challenging as I had few parts to change but I feel more confident with the process and using the documentation.
 
 ## Future features
 
 * Add a personalized user profile page.
+
+## Credits
+
+Team member: 
+
+* <a href="https://github.com/https://github.com/emilesherrott">Emile Sherrott</a>
+* <a href="https://github.com/sarandis10">Sarantis Atonakas</a>
+* <a href="https://github.com/TarasKiricenko">Taras Kiricenko</a>
