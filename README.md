@@ -107,7 +107,7 @@ We spent the first day planning the project and set up an internal deadline to r
 
 * Add a personalized user profile page.
 
-## Team member:
+## Team Members
 
 * <a href="https://github.com/https://github.com/emilesherrott">Emile Sherrott</a>
 * <a href="https://github.com/sarandis10">Sarantis Atonakas</a>
